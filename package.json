@@ -1,0 +1,18 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "Setup a cypress project for test automation E2E",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "cypress-selectors": "^1.0.2"
+  },
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
