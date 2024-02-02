@@ -1,6 +1,5 @@
 /// <reference types="cypress" />
 import {BaseObject} from '../base-object.page';
-// import {} from 'cypress-selectors'
 class BoardPageSelectors extends BaseObject {
     // Add client side board selectors
     static nameInput = '[data-cy="name-input"]';
